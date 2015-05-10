@@ -4,7 +4,7 @@
 
 $("a[href^='mailto:']").each(function () {
     var hash = md5($(this).attr('href').replace('mailto:', '').toLowerCase().trim());
-    $('<img src="http://www.gravatar.com/avatar/' + hash + '?s=32&d=retro" class="avatar">').prependTo(this);
+    $('<img src="https://www.gravatar.com/avatar/' + hash + '?s=32&d=retro" class="avatar">').prependTo(this);
 });
 
 Handlebars.registerHelper("calc", function(lvalue, operator, rvalue, options) {
