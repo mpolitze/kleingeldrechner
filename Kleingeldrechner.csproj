@@ -62,6 +62,7 @@
   <ItemGroup>
     <Content Include="ammount.js" />
     <Content Include="index.html" />
+    <Content Include="LICENSE.txt" />
     <Content Include="main.js" />
     <Content Include="references.js" />
     <Content Include="worker.js" />
