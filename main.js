@@ -41,18 +41,18 @@ $("#templates>div").each(function(){
 });
 
 var configuration = [ 
-	new Ammount("1ct", 25, 1), 
+	new Ammount("1ct", 40, 1), 
 	new Ammount("2ct", 50, 2), 
-	new Ammount("5ct", 80, 5),
-	new Ammount("10ct", 300, 10), 
-	new Ammount("20ct", 400, 20), 
-	new Ammount("50ct", 250, 50),
-	new Ammount("1€", 300, 100), 
-	new Ammount("2€", 450, 200), 
-	new Ammount("5€", 200, 500),
-	new Ammount("10€", 100, 1000), 
-	new Ammount("20€", 50, 2000), 
-	new Ammount("50€", 20, 5000),
+	new Ammount("5ct", 70, 5),
+	new Ammount("10ct", 150, 10), 
+	new Ammount("20ct", 170, 20), 
+	new Ammount("50ct", 90, 50),
+	new Ammount("1€", 120, 100), 
+	new Ammount("2€", 190, 200), 
+	new Ammount("5€", 110, 500),
+	new Ammount("10€", 75, 1000), 
+	new Ammount("20€", 30, 2000), 
+	new Ammount("50€", 16, 5000),
 	new Ammount("100€", 1, 10000)
 ];
 
