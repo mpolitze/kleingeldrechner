@@ -49,7 +49,7 @@ var configuration = [
 	new Ammount("50ct", 90, 50),
 	new Ammount("1€", 120, 100), 
 	new Ammount("2€", 190, 200), 
-	new Ammount("5€", 110, 500),
+	new Ammount("5€", 90, 500),
 	new Ammount("10€", 75, 1000), 
 	new Ammount("20€", 30, 2000), 
 	new Ammount("50€", 16, 5000),
